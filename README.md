@@ -12,7 +12,7 @@ FEATURES :
 
 - use Add button to put and configure visual objects on the screen
 - use Code button to see corresponding DS code and copy it to the Clipboard
-- touch on any objec to popup configuration dialogs
+- touch on any object to popup configuration dialogs
 
 
 TIPS :
