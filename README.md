@@ -6,7 +6,7 @@ Open-source visual DS code writer within Droidscript for Android
 
 This is the javascript sourcecode.
 
-A beta SPK package will soon be released
+A beta SPK package has been released : https://github.com/pepemont/rapiddroidscript/releases
 
 FEATURES :
 
