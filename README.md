@@ -17,7 +17,7 @@ FEATURES :
 
 TIPS :
 
--  LongPress <Code> button to exit this app
+-  LongPress < Code > button to exit this app
 
 TO BE DONE :
 
